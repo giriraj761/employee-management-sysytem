@@ -15,21 +15,12 @@
 
 - **View All Employees**: Fetch all employees from the database in a single click.
 
-## Screenshots
-
-![App Screenshot](https://github.com/OnkarSagare27/employee-management-mysql/blob/master/screenshots/home_screeen.png)
-![App Screenshot](https://github.com/OnkarSagare27/employee-management-mysql/blob/master/screenshots/add_an_employee.png)
-![App Screenshot](https://github.com/OnkarSagare27/employee-management-mysql/blob/master/screenshots/delete_an_employee.png)
-![App Screenshot](https://github.com/OnkarSagare27/employee-management-mysql/blob/master/screenshots/delete_an_employee_2.png)
-![App Screenshot](https://github.com/OnkarSagare27/employee-management-mysql/blob/master/screenshots/update_an_employee.png)
-![App Screenshot](https://github.com/OnkarSagare27/employee-management-mysql/blob/master/screenshots/update_an_employee_2.png)
-![App Screenshot](https://github.com/OnkarSagare27/employee-management-mysql/blob/master/screenshots/view_all_employee.png)
 
 ## Setup
 - Fork this repo
 - Clone repo
 ```sh
-git clone https://github.com/OnkarSagare27/employee-management-mysql.git
+git clone https://github.com/giriraj761/employee-management-system.git
 ```
 - Configure stuff in ``config.json``
 ```json
